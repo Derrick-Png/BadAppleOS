@@ -1,4 +1,4 @@
-# RickRollOS
+# BadAppleOS
  An operating system that boots up to play a single video **on loop**
 
 This is a solo project, I would not be accepting pull requests (if there are any) as it is as part of a learning process for me : ) 
